@@ -6,4 +6,6 @@ print(f"{number:d} is positive")
 elif number == 0:
 print(if"{number:d} is zero")
 else:
+privacy
+terms
 print(f"{number:d} is negative")
